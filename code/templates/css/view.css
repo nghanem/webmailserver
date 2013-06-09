@@ -1,0 +1,92 @@
+#newpasswordp {
+	margin-top: 15%;
+	margin-left: 35%;
+	margin-right: 43%;
+}
+#loginp {
+	
+	margin-top: 15%;
+	margin-left: 35%;
+	margin-right: 43%;
+}
+#forgotp {
+	
+	margin-top: 15%;
+	margin-left: 35%;
+	margin-right: 46%;
+}
+#signup {
+	    
+	     margin-top: 0%;
+	     margin-left: 30%;
+	     margin-right: 30%;
+	    }
+
+#body{ 
+	font-size: 14px;
+}
+
+table.mailTable {
+	font-size: 14px;
+}
+
+tr.addressStyle {
+	font-size: 13px;
+}
+
+
+input.invalid {
+	background-color:#FF9;
+	border: 2px red inset;
+}
+label.invalid {
+	color: #F00;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	color: blue
+}
+
+.table-heading {
+  background-color: #ff0;
+}
+
+.odd {
+ background-color: #cef;
+  
+}
+.even {
+ background-color: #ffc;
+}
+
+
+li {
+	list-style: none;
+	text-align:center;
+}
+
+#leftBar {
+	width: 180px;
+	padding: 5px;
+}
+
+#viewMail {
+	padding: 5px;
+	width: 80%;
+}
+
+textarea.dictStyle {
+	font-size: 14px;
+}
